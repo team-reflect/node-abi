@@ -1,6 +1,6 @@
 {
   "name": "@team-reflect/node-abi",
-  "version": "0.0.1",
+  "version": "2.19.3",
   "description": "Get the Node ABI for a given target and runtime, and vice versa.",
   "main": "index.js",
   "publishConfig": {
