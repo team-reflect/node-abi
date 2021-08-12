@@ -1,8 +1,11 @@
 {
-  "name": "node-abi",
+  "name": "@team-reflect/node-abi",
   "version": "0.0.0-development",
   "description": "Get the Node ABI for a given target and runtime, and vice versa.",
   "main": "index.js",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
   "scripts": {
     "semantic-release": "semantic-release",
     "test": "tape test/index.js",
